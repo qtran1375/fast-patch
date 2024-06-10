@@ -5,4 +5,6 @@ You can download the patcher here.
 
 ### USE AT YOUR OWN RISK!
 
-Special thanks to spiritovod for his Lost Ark QuickBMS scripts.
+
+https://cs.rin.ru/forum/viewtopic.php?f=10&t=100672
+https://www.gildor.org/smf/index.php?topic=3055.195
